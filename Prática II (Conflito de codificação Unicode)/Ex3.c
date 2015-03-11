@@ -37,4 +37,4 @@ int main () {
   pthread_join(thread_os, NULL);
   
   return(0);
-  }
+}
